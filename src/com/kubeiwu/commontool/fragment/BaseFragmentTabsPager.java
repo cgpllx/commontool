@@ -13,7 +13,10 @@ import com.kubeiwu.commontool.R;
 import com.kubeiwu.commontool.adapter.TabsPagerAdapter;
 import com.kubeiwu.commontool.ctrinterface.HandleTabsPager;
 import com.kubeiwu.commontool.view.ViewFactory;
-
+/**
+ * @author 耳东    www.kubeiwu.com
+ *
+ */
 public abstract class BaseFragmentTabsPager extends Fragment {
 	private TabHost mTabHost;
 	private ViewPager mViewPager;

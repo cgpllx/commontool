@@ -6,7 +6,10 @@
  */
 
 package com.kubeiwu.commontool;
-
+/**
+ * @author 耳东    www.kubeiwu.com
+ *
+ */
 public final class R {
 	public static final class id {
 		public static int pager = 0x7f020001;

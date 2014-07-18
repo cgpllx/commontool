@@ -11,7 +11,10 @@ import android.view.ViewGroup;
 import com.kubeiwu.commontool.R;
 import com.kubeiwu.commontool.ctrinterface.HandleTabs;
 import com.kubeiwu.commontool.view.ViewFactory;
-
+/**
+ * @author 耳东    www.kubeiwu.com
+ *
+ */
 public class BaseFragmentTabs extends Fragment {
 	private FragmentTabHost mTabHost;
 	private HandleTabs mHandleTabs;

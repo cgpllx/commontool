@@ -11,7 +11,10 @@ import android.widget.TabHost;
 import android.widget.TabWidget;
 
 import com.kubeiwu.commontool.R;
-
+/**
+ * @author 耳东    www.kubeiwu.com
+ *
+ */
 public class ViewFactory {
 	/**
 	 * 	获取TabHost
