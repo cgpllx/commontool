@@ -40,7 +40,7 @@ public class ViewFactory {
 		TabWidget tabs = new TabWidget(mContext);
 		tabs.setId(android.R.id.tabs);
 		tabs.setLayoutParams(new TabWidget.LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT, 0));
-		tabs.setOrientation(TabWidget.HORIZONTAL);
+		tabs.setOrientation(LinearLayout.HORIZONTAL);
 
 		FrameLayout tabcontent = new FrameLayout(mContext);
 		tabcontent.setId(android.R.id.tabcontent);
@@ -84,7 +84,7 @@ public class ViewFactory {
 		TabWidget tabs = new TabWidget(mContext);
 		tabs.setId(android.R.id.tabs);
 		tabs.setLayoutParams(new LinearLayout.LayoutParams(LayoutParams.MATCH_PARENT, LayoutParams.WRAP_CONTENT, 0));
-		tabs.setOrientation(TabWidget.HORIZONTAL);
+		tabs.setOrientation(LinearLayout.HORIZONTAL);
 
 		FrameLayout tabcontent = new FrameLayout(mContext);
 		tabcontent.setId(android.R.id.tabcontent);

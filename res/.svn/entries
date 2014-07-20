@@ -1,0 +1,76 @@
+10
+
+dir
+16
+svn://172.21.5.90/android/zhihuishichang/appdownload/res
+svn://172.21.5.90/android
+
+
+
+2014-07-03T00:33:33.750124Z
+16
+cgp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48339623-f016-404b-84a2-5da7d498852f
+
+values-sw720dp-land
+dir
+
+drawable
+dir
+
+drawable-xxhdpi
+dir
+
+anim
+dir
+
+drawable-xhdpi
+dir
+
+values
+dir
+
+xml
+dir
+
+values-sw600dp
+dir
+
+drawable-hdpi
+dir
+
+values-v11
+dir
+
+menu
+dir
+
+values-v14
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+layout
+dir
+
+color
+dir
+
